@@ -21,12 +21,12 @@ double getY_circlize(double x, double y)
   return y * sqrt(1 - ((x * x) / 2.0));
 }
 
-int getX_back2normal(double x)
+int getX_expanded(double x)
 {
   return (240 * (x + 1)).round();
 }
 
-int getY_back2normal(double y)
+int getY_expanded(double y)
 {
   return (240 * (y + 1)).round();
 }
@@ -39,7 +39,7 @@ int mapX(int x, int y)
 
   xx = getX_circlize(xx, yy);
 
-  return getX_back2normal(xx);
+  return getX_expanded(xx);
   //return xx;
 }
 
@@ -51,7 +51,7 @@ int mapY(int x, int y)
 
   yy = getY_circlize(xx, yy);
 
-  return getY_back2normal(yy);
+  return getY_expanded(yy);
 
   //return yy;
 }
