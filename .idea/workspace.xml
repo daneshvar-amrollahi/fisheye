@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a492a6fb-53b8-4f7b-a7d0-8602f63b300c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/fisheye.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/fisheye.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,22 +48,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="270" key="GridCell.Tab.0.bottom" timestamp="1595061834482">
+    <state x="743" y="297" width="424" height="529" key="FileChooserDialogImpl" timestamp="1595069474530">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="270" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1595061834482" />
-    <state width="1874" height="270" key="GridCell.Tab.0.center" timestamp="1595061834480">
+    <state x="743" y="297" width="424" height="529" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1595069474530" />
+    <state width="1874" height="270" key="GridCell.Tab.0.bottom" timestamp="1595069505216">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="270" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1595061834480" />
-    <state width="1874" height="270" key="GridCell.Tab.0.left" timestamp="1595061834480">
+    <state width="1874" height="270" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1595069505216" />
+    <state width="1874" height="270" key="GridCell.Tab.0.center" timestamp="1595069505215">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="270" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1595061834480" />
-    <state width="1874" height="270" key="GridCell.Tab.0.right" timestamp="1595061834481">
+    <state width="1874" height="270" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1595069505215" />
+    <state width="1874" height="270" key="GridCell.Tab.0.left" timestamp="1595069505215">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="270" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1595061834481" />
+    <state width="1874" height="270" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1595069505215" />
+    <state width="1874" height="270" key="GridCell.Tab.0.right" timestamp="1595069505216">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="270" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1595069505216" />
     <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1595061066469">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
