@@ -56,3 +56,20 @@ int mapY(int x, int y)
   //return yy;
 }
 
+img.Image fisheye(img.Image input){
+  var w = input.width;
+  var h = input.height;
+  var output = img.Image(w, h);
+  for (int i = 0 ; i < w ; i++)
+    for (int j = 0 ; j < h ; j++)
+    {
+      int nx = mapX(i, j), ny = mapY(i, j);
+      //print("$i $j $nx $ny");
+      output.setPixel(ny + 115, nx, input.getPixel(i, j));
+    }
+
+  print('width and height are $w $h');
+
+
+  return output;
+}
